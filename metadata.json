@@ -1,0 +1,10 @@
+
+{
+  "name": "God Save The Chef - Luxury Private Dining",
+  "description": "Bespoke private chef experiences in London featuring AI-powered menu planning, voice concierge, and visual food studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
