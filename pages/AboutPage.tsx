@@ -7,7 +7,7 @@ const AboutPage: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
         <div className="relative">
           <img 
-            src="https://images.unsplash.com/photo-1577214495773-551bc4f28941?auto=format&fit=crop&q=80&w=1000" 
+            src="https://media-los2-1.cdn.whatsapp.net/v/t61.24694-24/418025451_826712426050420_1088016425134389899_n.jpg?ccb=11-4&oh=01_Q5Aa3QE1u1WFsaFwMXvBDb851g55zb3CqYJUZiOBuwaRy-5F5g&oe=695EB42E&_nc_sid=5e03e0&_nc_cat=103" 
             alt="Chef Andres" 
             className="rounded-2xl shadow-2xl z-10 relative"
           />
